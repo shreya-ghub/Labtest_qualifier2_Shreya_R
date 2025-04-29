@@ -4,6 +4,14 @@ from parser import parse_lab_report
 import uvicorn
 import shutil
 import os
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
+TESSDATA_PREFIX = os.getenv("TESSDATA_PREFIX")
+OCR_LANGUAGE = os.getenv("OCR_LANGUAGE", "eng")
+
 
 app = FastAPI()
 

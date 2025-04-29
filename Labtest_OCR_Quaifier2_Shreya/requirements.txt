@@ -5,3 +5,4 @@ opencv-python
 python-multipart
 pillow
 numpy
+python-dotenv
