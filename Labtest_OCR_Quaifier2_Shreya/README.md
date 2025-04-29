@@ -15,5 +15,10 @@ Tesseract OCR - text extraction from images
 OpenCV - image preprocessing
 Python- programming language
 
+Sample outputs:
+
+<img width="629" alt="Screenshot 2025-04-29 at 11 36 40 AM" src="https://github.com/user-attachments/assets/d3c0a47c-ee47-4712-8379-092906baf3d3" />
+<img width="623" alt="Screenshot 2025-04-29 at 1 17 01 PM" src="https://github.com/user-attachments/assets/eda8497d-5651-43a7-9ae1-cbfb209123d7" />
+
 
 
